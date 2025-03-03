@@ -1,0 +1,9 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\bin\Debug\libOpeCafeteria.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\bin\Debug\libOpeCafeteria.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\bin\Debug\libRnPedidos.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\bin\Debug\libRnPedidos.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\obj\Debug\libOpeCafeteria.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\obj\Debug\libOpeCafeteria.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\obj\Debug\libOpeCa.EA266383.Up2Date
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\obj\Debug\libOpeCafeteria.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libOpeCafeteria\libOpeCafeteria\obj\Debug\libOpeCafeteria.pdb

@@ -1,0 +1,6 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libRnPedidos\libRnPedidos\bin\Debug\libRnPedidos.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libRnPedidos\libRnPedidos\bin\Debug\libRnPedidos.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libRnPedidos\libRnPedidos\obj\Debug\libRnCafeteria.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libRnPedidos\libRnPedidos\obj\Debug\libRnCafeteria.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libRnPedidos\libRnPedidos\obj\Debug\libRnPedidos.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\libRnPedidos\libRnPedidos\obj\Debug\libRnPedidos.pdb
