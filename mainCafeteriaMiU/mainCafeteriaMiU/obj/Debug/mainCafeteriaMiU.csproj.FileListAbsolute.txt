@@ -1,0 +1,15 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\mainCafeteriaMiU.exe.config
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\mainCafeteriaMiU.exe
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\mainCafeteriaMiU.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.frmCafeteriaMiU.resources
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.Properties.Resources.resources
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.csproj.GenerateResource.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.exe
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafeteriaMiU.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\libOpeCafeteria.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\libRnPedidos.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\libOpeCafeteria.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug\libRnPedidos.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\cafe_mi_u\mainCafeteriaMiU\mainCafeteriaMiU\obj\Debug\mainCafe.12D9DADE.Up2Date

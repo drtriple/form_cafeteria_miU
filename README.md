@@ -12,7 +12,19 @@ separado por el carácter especial: Barra vertical (I). (Alt+124), expresados en
 ```bash
 (Dia|Vr.Unit_Ibr|Cant.LbrsNorm|Cant.LbrsQuinc|Cant.LbrsFest)
 ```
-Notas:
+### Pedidos.txt
+```bash
+cd mainCafeteriaMiU\mainCafeteriaMiU\bin\Debug
+Lunes|5000|10|2|3
+Martes|5000|12|2|3
+Miércoles|5000|8|2|3
+Jueves|5000|14|2|3
+Viernes|5000|10|2|3
+Sábado|5000|15|2|3
+Domingo|5000|10|2|3
+```
+
+### Notas:
 
 1. Tener en cuenta que, si la compra se realiza un día que corresponde a quincena o es festivo se debe adicionar una cantidad adicional de libras a la cantidad. (Recomiendo utilizar CheckBox para dichos controles).
 2. Si el día del pedido corresponde a quincena y es festivo, se deben sumar las adiciones en una sola.
@@ -24,3 +36,6 @@ despacha los domingos.
 ## Detalles
 
 Versión: .NET Framework 4.7.2
+
+## Resultado
+![form](https://i.ibb.co/jZ4XVR7Q/form-image.png)

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D8CB1BC-DED2-402C-B6AA-D4BBEC76CF78}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\cafe_mi_u\\maincafeteriamiu\\maincafeteriamiu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D8CB1BC-DED2-402C-B6AA-D4BBEC76CF78}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|solutionrelative:maincafeteriamiu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{982F9BA7-BDC1-45EC-90D2-6AE8F56CE8AA}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\cafe_mi_u\\maincafeteriamiu\\maincafeteriamiu\\frmcafeteriamiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{982F9BA7-BDC1-45EC-90D2-6AE8F56CE8AA}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|solutionrelative:maincafeteriamiu\\frmcafeteriamiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982F9BA7-BDC1-45EC-90D2-6AE8F56CE8AA}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\cafe_mi_u\\maincafeteriamiu\\maincafeteriamiu\\frmcafeteriamiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982F9BA7-BDC1-45EC-90D2-6AE8F56CE8AA}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|solutionrelative:maincafeteriamiu\\frmcafeteriamiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982F9BA7-BDC1-45EC-90D2-6AE8F56CE8AA}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\cafe_mi_u\\maincafeteriamiu\\maincafeteriamiu\\frmcafeteriamiu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982F9BA7-BDC1-45EC-90D2-6AE8F56CE8AA}|mainCafeteriaMiU\\mainCafeteriaMiU.csproj|solutionrelative:maincafeteriamiu\\frmcafeteriamiu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\Form1.cs",
-              "RelativeDocumentMoniker": "mainCafeteriaMiU\\Form1.cs",
-              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "mainCafeteriaMiU\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "frmCafeteriaMiU.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\frmCafeteriaMiU.cs",
+              "RelativeDocumentMoniker": "mainCafeteriaMiU\\frmCafeteriaMiU.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\frmCafeteriaMiU.cs",
+              "RelativeToolTip": "mainCafeteriaMiU\\frmCafeteriaMiU.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAjwIAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T23:38:17.775Z",
+              "WhenOpened": "2025-03-03T23:55:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCafeteriaMiU.Designer.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\frmCafeteriaMiU.Designer.cs",
+              "RelativeDocumentMoniker": "mainCafeteriaMiU\\frmCafeteriaMiU.Designer.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\frmCafeteriaMiU.Designer.cs",
+              "RelativeToolTip": "mainCafeteriaMiU\\frmCafeteriaMiU.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:55:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCafeteriaMiU.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\frmCafeteriaMiU.cs",
+              "RelativeDocumentMoniker": "mainCafeteriaMiU\\frmCafeteriaMiU.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\cafe_mi_u\\mainCafeteriaMiU\\mainCafeteriaMiU\\frmCafeteriaMiU.cs [Dise\u00F1o]",
+              "RelativeToolTip": "mainCafeteriaMiU\\frmCafeteriaMiU.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:55:32.396Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
